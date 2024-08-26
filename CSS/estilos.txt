@@ -1,0 +1,2 @@
+color de fondo
+color de fuente rojo

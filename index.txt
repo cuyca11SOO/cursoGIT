@@ -1,0 +1,2 @@
+hola este archivo es para probar git
+hay que subir a github ¿como?
