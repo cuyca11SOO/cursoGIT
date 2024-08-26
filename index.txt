@@ -1,2 +1,5 @@
 hola este archivo es para probar git
 hay que subir a github ¿como?
+mas cambios en lineas
+ya hay cinco y estas tre ultimas
+se han realizado desde github
